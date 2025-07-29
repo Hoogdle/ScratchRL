@@ -1,6 +1,7 @@
 import numpy as np
 from collections import defaultdict
 from DynamicGrid import GridWorld
+from MonteCarlo import greedy_probs
 
 class TdAgent:
     def __init__(self):

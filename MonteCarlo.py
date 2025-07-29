@@ -127,3 +127,6 @@ for episode in range(iter_num):
 
 
 env.render(agent.Q)
+        
+        
+        
